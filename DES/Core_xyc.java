@@ -258,6 +258,8 @@ public class Core_xyc {
 		 
 	}
 	
+	
+	//主函数用于测试各个函数的功能
 	public static void main(String args[]) {
 		String str = "倱춗ﷆ䀆ࣵ郎?顶뙜輖羚︠꜏〦忆ꯡㄅ왆ꑑ잒䧎輍동휘⤔̐宒வ緢?౗坶⠆ᬼ✠둺蒗ᠦ欨說츥ⷕ쨡ᅕ㊽⓽᾿鎹χ腪ㇸ蘦ἔ鋔䙀ʽ랙";
 		Core_xyc test = new Core_xyc(); 
